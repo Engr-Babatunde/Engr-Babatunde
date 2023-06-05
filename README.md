@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Engr-Babatunde
-- 👀 I’m interested in data analysis, data science, machine learning and deep learing
+- 👀 I’m interested in data analysis, data science, machine learning and deep learning
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on analysis of data
 - 📫 How to reach me suleisiaka@gmail.com, +2347065214445...
